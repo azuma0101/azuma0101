@@ -1,0 +1,27 @@
+h4{
+    /*これこれ*/
+    color:red;
+}
+p{
+    font-size:40px;
+    font-family:serif;
+    /*フォント名にスペースが・・*/
+}
+h1{
+    background-color:blue;
+}
+img{
+    width:500px;
+    height:280px;
+}
+.rensyuu{
+    color:brown;
+}
+.hasami{
+    color:green;
+    /*classは・・・タグは・・・*/
+}
+body{
+    font-family:"Avenir Next";
+    /*こうするとbody・・・*/
+}
